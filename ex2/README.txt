@@ -1,6 +1,4 @@
-307944017
-305230740
-*****
+
 Comments:
 Q5: The evaluation function we used is a linear combination of the following: 
 	* Number of empty tiles: We want the game to continue on and on ( so we'll have
