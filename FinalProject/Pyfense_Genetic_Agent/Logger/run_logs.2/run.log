@@ -1,0 +1,16 @@
+This run parameters are:
+
+  Algorithm parameters:
+      Population size: 10
+      Fittest individuals amount after selection: 7
+      Number of generations per segment: 3
+      Mutation Rate: 0.2
+
+  Game parameters:
+      Money at the start of the game: 500
+      Number of segments to learn: 3
+      Number of waves per segment: 9
+
+Starting the run!
+
+

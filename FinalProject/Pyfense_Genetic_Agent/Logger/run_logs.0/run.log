@@ -1,0 +1,171 @@
+This run parameters are:
+
+  Algorithm parameters:
+      Population size: 100
+      Fittest individuals amount after selection: 15
+      Number of generations per segment: 15
+      Mutation Rate: 0.01
+
+  Game parameters:
+      Money at the start of the game: 500
+      Number of segments to learn: 5
+      Number of waves per segment: 9
+
+Starting the run!
+
+
+Fitness of generation 0 - average: 1.0777333333333337 highest: 4.42
+Number of fittest for generation 0 is 15
+Fitness of generation 1 - average: 2.4628999999999994 highest: 4.42
+Number of fittest for generation 1 is 15
+Fitness of generation 2 - average: 3.583633333333331 highest: 4.5600000000000005
+Number of fittest for generation 2 is 15
+Fitness of generation 3 - average: 4.018520000000001 highest: 4.62
+Number of fittest for generation 3 is 15
+Fitness of generation 4 - average: 4.216999999999998 highest: 4.62
+Number of fittest for generation 4 is 15
+Fitness of generation 5 - average: 4.268633333333332 highest: 4.62
+Number of fittest for generation 5 is 15
+Fitness of generation 6 - average: 4.316333333333332 highest: 4.62
+Number of fittest for generation 6 is 15
+Fitness of generation 7 - average: 4.3932333333333355 highest: 4.62
+Number of fittest for generation 7 is 15
+Fitness of generation 8 - average: 4.22592 highest: 4.62
+Number of fittest for generation 8 is 15
+Fitness of generation 9 - average: 4.400499999999999 highest: 4.62
+Number of fittest for generation 9 is 15
+Fitness of generation 10 - average: 4.415833333333333 highest: 4.62
+Number of fittest for generation 10 is 15
+Fitness of generation 11 - average: 4.410433333333333 highest: 4.62
+Number of fittest for generation 11 is 15
+Fitness of generation 12 - average: 4.378799999999999 highest: 4.62
+Number of fittest for generation 12 is 15
+Fitness of generation 13 - average: 4.3897666666666675 highest: 4.62
+Number of fittest for generation 13 is 15
+Fitness of generation 14 - average: 4.3168 highest: 4.62
+Learned segment 0 in (hh:mm:ss.ms) 2:37:46.659411
+
+Fitness of generation 0 - average: 1.4616386768447833 highest: 2.984732824427481
+Number of fittest for generation 0 is 15
+Fitness of generation 1 - average: 2.016264631043257 highest: 3.0
+Number of fittest for generation 1 is 15
+Fitness of generation 2 - average: 2.7456386768447847 highest: 3.122137404580153
+Number of fittest for generation 2 is 15
+Fitness of generation 3 - average: 2.7446743002544527 highest: 3.198473282442748
+Number of fittest for generation 3 is 15
+Fitness of generation 4 - average: 2.871185750636132 highest: 3.2900763358778624
+Number of fittest for generation 4 is 15
+Fitness of generation 5 - average: 2.682872773536894 highest: 3.2900763358778624
+Number of fittest for generation 5 is 15
+Fitness of generation 6 - average: 2.8809847328244267 highest: 3.32824427480916
+Number of fittest for generation 6 is 15
+Fitness of generation 7 - average: 3.010854961832062 highest: 3.32824427480916
+Number of fittest for generation 7 is 15
+Fitness of generation 8 - average: 2.784956743002545 highest: 3.312977099236641
+Number of fittest for generation 8 is 15
+Fitness of generation 9 - average: 2.9764529262086534 highest: 3.312977099236641
+Number of fittest for generation 9 is 15
+Fitness of generation 10 - average: 2.965236641221373 highest: 3.312977099236641
+Number of fittest for generation 10 is 15
+Fitness of generation 11 - average: 3.0201806615776094 highest: 3.312977099236641
+Number of fittest for generation 11 is 15
+Fitness of generation 12 - average: 3.1010356234096697 highest: 3.312977099236641
+Number of fittest for generation 12 is 15
+Fitness of generation 13 - average: 3.059600508905855 highest: 3.312977099236641
+Number of fittest for generation 13 is 15
+Fitness of generation 14 - average: 3.067982188295164 highest: 3.312977099236641
+Learned segment 1 in (hh:mm:ss.ms) 2:32:59.759872
+
+Fitness of generation 0 - average: 1.847414728682169 highest: 3.2819767441860463
+Number of fittest for generation 0 is 15
+Fitness of generation 1 - average: 2.2474844961240295 highest: 3.2819767441860463
+Number of fittest for generation 1 is 15
+Fitness of generation 2 - average: 2.7461007751937982 highest: 3.2819767441860463
+Number of fittest for generation 2 is 15
+Fitness of generation 3 - average: 2.6563565891472867 highest: 3.25
+Number of fittest for generation 3 is 15
+Fitness of generation 4 - average: 2.6910406976744183 highest: 3.244186046511628
+Number of fittest for generation 4 is 15
+Fitness of generation 5 - average: 2.6417674418604644 highest: 3.296511627906977
+Number of fittest for generation 5 is 15
+Fitness of generation 6 - average: 2.7174437984496125 highest: 3.2790697674418605
+Number of fittest for generation 6 is 15
+Fitness of generation 7 - average: 2.8495852713178293 highest: 3.299418604651163
+Number of fittest for generation 7 is 15
+Fitness of generation 8 - average: 2.8546569767441867 highest: 3.325581395348837
+Number of fittest for generation 8 is 15
+Fitness of generation 9 - average: 2.7579961240310085 highest: 3.3401162790697674
+Number of fittest for generation 9 is 15
+Fitness of generation 10 - average: 2.9926337209302316 highest: 3.328488372093023
+Number of fittest for generation 10 is 15
+Fitness of generation 11 - average: 2.899687984496124 highest: 3.308139534883721
+Number of fittest for generation 11 is 15
+Fitness of generation 12 - average: 2.592288759689923 highest: 3.2906976744186047
+Number of fittest for generation 12 is 15
+Fitness of generation 13 - average: 2.7342248062015506 highest: 3.2790697674418605
+Number of fittest for generation 13 is 15
+Fitness of generation 14 - average: 3.000575581395349 highest: 3.2761627906976747
+Learned segment 2 in (hh:mm:ss.ms) 3:04:37.041257
+
+Fitness of generation 0 - average: 1.9892077464079603 highest: 3.327188940092166
+Number of fittest for generation 0 is 15
+Fitness of generation 1 - average: 2.582399303827628 highest: 3.327188940092166
+Number of fittest for generation 1 is 15
+Fitness of generation 2 - average: 2.6946657085192838 highest: 3.2119815668202767
+Number of fittest for generation 2 is 15
+Fitness of generation 3 - average: 2.7376657291139583 highest: 3.28110599078341
+Number of fittest for generation 3 is 15
+Fitness of generation 4 - average: 2.73240958094174 highest: 3.3502304147465436
+Number of fittest for generation 4 is 15
+Fitness of generation 5 - average: 2.979164914645104 highest: 3.3732718894009217
+Number of fittest for generation 5 is 15
+Fitness of generation 6 - average: 2.973808889213849 highest: 3.3760368663594473
+Number of fittest for generation 6 is 15
+Fitness of generation 7 - average: 3.155180733295917 highest: 3.3921658986175114
+Number of fittest for generation 7 is 15
+Fitness of generation 8 - average: 3.0969877112135165 highest: 3.3963133640553
+Number of fittest for generation 8 is 15
+Fitness of generation 9 - average: 3.1482192732694667 highest: 3.421658986175115
+Number of fittest for generation 9 is 15
+Fitness of generation 10 - average: 3.2383056835637474 highest: 3.421658986175115
+Number of fittest for generation 10 is 15
+Fitness of generation 11 - average: 3.1445453149001548 highest: 3.442396313364055
+Number of fittest for generation 11 is 15
+Fitness of generation 12 - average: 3.170506912442395 highest: 3.442396313364055
+Number of fittest for generation 12 is 15
+Fitness of generation 13 - average: 3.0894055299539156 highest: 3.445161290322581
+Number of fittest for generation 13 is 15
+Fitness of generation 14 - average: 3.094462365591396 highest: 3.4244239631336404
+Learned segment 3 in (hh:mm:ss.ms) 3:23:25.028779
+
+Fitness of generation 0 - average: 1.9478240508815867 highest: 3.188311688311688
+Number of fittest for generation 0 is 15
+Fitness of generation 1 - average: 2.49834559767623 highest: 3.12987012987013
+Number of fittest for generation 1 is 15
+Fitness of generation 2 - average: 2.7005982796242107 highest: 3.2204213938411668
+Number of fittest for generation 2 is 15
+Fitness of generation 3 - average: 2.7256627305703485 highest: 3.188311688311688
+Number of fittest for generation 3 is 15
+Fitness of generation 4 - average: 2.867801313084539 highest: 3.258116883116883
+Number of fittest for generation 4 is 15
+Fitness of generation 5 - average: 2.9525998880913793 highest: 3.2954545454545454
+Number of fittest for generation 5 is 15
+Fitness of generation 6 - average: 2.9765454545454544 highest: 3.2954545454545454
+Number of fittest for generation 6 is 15
+Fitness of generation 7 - average: 3.100720779220779 highest: 3.2905844155844157
+Number of fittest for generation 7 is 15
+Fitness of generation 8 - average: 3.108785714285714 highest: 3.3136363636363635
+Number of fittest for generation 8 is 15
+Fitness of generation 9 - average: 2.941532467532466 highest: 3.308766233766234
+Number of fittest for generation 9 is 15
+Fitness of generation 10 - average: 2.9133051948051953 highest: 3.3136363636363635
+Number of fittest for generation 10 is 15
+Fitness of generation 11 - average: 3.0552294372294364 highest: 3.32987012987013
+Number of fittest for generation 11 is 15
+Fitness of generation 12 - average: 2.9627662337662333 highest: 3.32987012987013
+Number of fittest for generation 12 is 15
+Fitness of generation 13 - average: 2.8864491341991316 highest: 3.32987012987013
+Number of fittest for generation 13 is 15
+Fitness of generation 14 - average: 2.913282467532467 highest: 3.32987012987013
+Learned segment 4 in (hh:mm:ss.ms) 4:05:05.367833
+

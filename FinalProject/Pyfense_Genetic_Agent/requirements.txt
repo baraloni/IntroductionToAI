@@ -1,0 +1,4 @@
+cocos2d~=0.6.8
+pyglet~=1.5.7
+numpy~=1.19.1
+setuptools~=47.1.0
