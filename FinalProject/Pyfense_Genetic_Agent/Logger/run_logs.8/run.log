@@ -1,0 +1,30 @@
+This run parameters are:
+
+  Algorithm parameters:
+      Population size: 12
+      Fittest individuals amount after selection: 10
+      Number of generations per segment: 3
+      Mutation Rate: 0.1
+
+  Game parameters:
+      Money at the start of the game: 500
+      Number of segments to learn: 2
+      Number of waves per segment: 9
+
+Starting the run!
+
+
+Fitness of generation 0 - average: 4.416666666666667 highest: 4.96
+Number of fittest for generation 0 is 10
+Fitness of generation 1 - average: 4.355999999999999 highest: 4.4
+Number of fittest for generation 1 is 10
+Fitness of generation 2 - average: 4.362666666666667 highest: 4.41
+Learned segment 0 in (hh:mm:ss.ms) 0:00:00.861693
+
+Fitness of generation 0 - average: 3.004881211067652 highest: 3.023931623931624
+Number of fittest for generation 0 is 10
+Fitness of generation 1 - average: 2.999476073204887 highest: 3.0211864406779663
+Number of fittest for generation 1 is 10
+Fitness of generation 2 - average: 3.00831824327587 highest: 3.038983050847458
+Learned segment 1 in (hh:mm:ss.ms) 0:00:00.991518
+

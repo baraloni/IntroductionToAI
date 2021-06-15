@@ -1,0 +1,6 @@
+Generation,ID,Fitness,Lives lost,Money earned,Money spent,Waves Survived
+0,0,0,15,100,510,3
+0,1,0,15,45,610,2
+0,2,1.9761904761904763,4,830,660,10
+0,3,3.685714285714286,0,1160,500,10
+0,4,0,15,0,0,2
