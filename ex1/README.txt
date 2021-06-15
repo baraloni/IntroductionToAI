@@ -1,6 +1,4 @@
-307944017
-305230740
-*****
+
 Comments:
 
 Blokus Corners Problem Heuristic:
